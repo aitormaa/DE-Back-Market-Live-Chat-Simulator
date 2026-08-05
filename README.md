@@ -1,7 +1,7 @@
 Back Market – Live Chat Training Simulator
 Ein interaktives, browserbasiertes Trainingstool für Back Market-Kundendienst-Mitarbeiter. Zwei Benutzer verbinden sich in Echtzeit: einer spielt den Agenten, der andere den Kunden, um den Live-Chat-Support anhand realistischer Szenarien zu üben.
 
-    Live-Demo: https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/
+    Live-Demo: https://aitormaa.github.io/DE-Back-Market-Live-Chat-Simulator/
 
 Funktionen
 Multiplayer für zwei Benutzer
@@ -51,7 +51,7 @@ QA-Bewertung und Empathie-Analyse
 
 Erste Schritte
 Option 1 – Live-Version verwenden
-Keine Installation nötig. Öffne https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/ in zwei Browser-Fenstern oder auf zwei Geräten.
+Keine Installation nötig. Öffne https://aitormaa.github.io/DE-Back-Market-Live-Chat-Simulator/ in zwei Browser-Fenstern oder auf zwei Geräten.
 Option 2 – Lokal ausführen
 Da es sich um eine einzelne HTML-Datei ohne Build-Schritt handelt:
 
